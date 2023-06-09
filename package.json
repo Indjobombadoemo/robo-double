@@ -1,0 +1,27 @@
+{
+  "name": "zanga",
+  "version": "4.0.0",
+  "description": "zanga.",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh start.sh",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [
+    "não",
+    "tem"
+  ],
+  "author": "zanga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "utf8": "^3.0.0"
+  }
+}

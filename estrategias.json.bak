@@ -1,0 +1,44 @@
+[
+            {
+        "colors": [ "V", "V", "P", "V", "V" ],
+        "cor": "⚫️",
+        "name": "",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR  ⚫️\nproteger no ⚪️\nLink: (blaze.com/r/J60MQ9)7"
+    },
+                    {
+        "colors": [ "P", "P", "P", "P", "P", "P"],
+        "cor": "🛑",
+        "name": "",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR  🛑\nproteger no ⚪️\nLink: (blaze.com/r/J60MQ9)8"
+    },
+                        {
+        "colors": [ "V", "V", "V", "V", "V", "V"],
+        "cor": "⚫️",
+        "name": "",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR  ⚫️\nproteger no ⚪️\nLink: (blaze.com/r/J60MQ9)8"
+    },
+        {
+        "colors": ["P", "P", "V", "P", "P"],
+        "cor": "🛑",
+        "name": "Padrão PP",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR NO 🛑\n proteger no ⚪️\nLink: (blaze.com/r/J60MQ9)10"
+    },
+            {
+        "colors": ["V", "V", "P", "V", "V"],
+        "cor": "⚫️",
+        "name": "Padrão PP",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR NO ⚫️\n proteger no ⚪️\nLink: (blaze.com/r/J60MQ9)10"
+    },
+                {
+        "colors": ["V", "V"],
+        "cor": "⚫️",
+        "name": "Padrão PP",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR NO ⚫️\n proteger no ⚪️\nLink: (blaze.com/r/J60MQ9)10"
+    },
+                {
+        "colors": ["P", "P"],
+        "cor": "🛑",
+        "name": "Padrão PP",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR NO 🛑\n proteger no ⚪️\nLink: (blaze.com/r/J60MQ9)12"
+    }
+]
